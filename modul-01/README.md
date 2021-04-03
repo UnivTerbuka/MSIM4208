@@ -18,7 +18,7 @@ Secara lebih rinci, Anda diharapkan mampu:
 
 ### Kegiatan Belajar 1
 
-Antarmuka Manusia dan Komputer
+[Antarmuka Manusia dan Komputer](kb-01.md)
 
 ### Kegiatan Belajar 2
 
