@@ -22,7 +22,7 @@ Secara lebih rinci, Anda diharapkan mampu:
 
 ### Kegiatan Belajar 2
 
-Pengembangan Antarmuka
+[Pengembangan Antarmuka](kb-02.md)
 
 ***
 
