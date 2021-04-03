@@ -6,7 +6,7 @@ Mata kuliah MSIM4208 Interaksi Manusia dan Komputer yang berbobot 3 (tiga) SKS i
 
 Secara rinci, konsep dan prinsip Interaksi Manusia dan Komputer yang akan Anda pelajari dalam mata kuliah ini meliputi hal-hal berikut.
 
-1. Antarmuka Manusia dan Komputer
+1. [Antarmuka Manusia dan Komputer](modul-01/kb-01.md)
 2. Faktor Manusia
 3. Kerangka Kerja dan Paradigma Interaksi
 4. Kebergunaan
