@@ -23,3 +23,7 @@ Secara lebih rinci, Anda diharapkan mampu:
 ### Kegiatan Belajar 2
 
 Pengembangan Antarmuka
+
+***
+
+Selanjutnya [Kegiatan Belajar 1: Antarmuka Manusia dan Komputer](kb-01.md)
